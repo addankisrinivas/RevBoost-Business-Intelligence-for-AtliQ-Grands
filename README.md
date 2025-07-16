@@ -36,7 +36,7 @@ Deliver a unified dashboard that enables leadership to instantly assess revenue 
 ## 📊 Live Dashboard
 
 **Experience the dashboard:**  
-[RevBoost – AtliQ Grands Live Demo](https://lnkd.in/gZDdaqyG)
+[RevBoost – AtliQ Grands Live Demo](https://app.powerbi.com/view?r=eyJrIjoiYzBmNTVlMDQtYzdhYS00ZjNlLTk3NzctN2NlNjk3MjBmMTcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 All revenue, occupancy, ratings, and booking trends are available on one interactive page.
 
@@ -45,7 +45,9 @@ All revenue, occupancy, ratings, and booking trends are available on one interac
 ## 📸 Screenshots
 
 - **Main Dashboard Overview:**  
-  ![RevBoost Dashboard]
+  **[RevBoost Dashboard](https://github.com/addankisrinivas/RevBoost-Business-Intelligence-for-AtliQ-Grands/blob/main/Revenue_insights.png)**
+  **[Data Model](https://github.com/addankisrinivas/RevBoost-Business-Intelligence-for-AtliQ-Grands/blob/main/Data_model_Revboost.png)**
+  
 
 ---
 
