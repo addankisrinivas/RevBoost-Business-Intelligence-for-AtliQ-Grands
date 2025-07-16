@@ -45,7 +45,7 @@ All revenue, occupancy, ratings, and booking trends are available on one interac
 ## 📸 Screenshots
 
 - **Main Dashboard Overview:**  
-  **[RevBoost Dashboard](https://github.com/addankisrinivas/RevBoost-Business-Intelligence-for-AtliQ-Grands/blob/main/Revenue_insights.png)**
+  **[RevBoost Dashboard](https://github.com/addankisrinivas/RevBoost-Business-Intelligence-for-AtliQ-Grands/blob/main/Revenue_insights.png)**, 
   **[Data Model](https://github.com/addankisrinivas/RevBoost-Business-Intelligence-for-AtliQ-Grands/blob/main/Data_model_Revboost.png)**
   
 
